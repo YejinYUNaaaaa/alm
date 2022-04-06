@@ -19,6 +19,6 @@ pypiwin32==223
 pytz==2018.7
 pywin32==224
 six==1.11.0
-Twisted==18.9.0
+Twisted==22.2.0
 txaio==18.8.1
 zope.interface==4.6.0
